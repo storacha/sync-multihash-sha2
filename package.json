@@ -1,7 +1,7 @@
 {
   "name": "sync-multihash-sha2",
   "description": "Sync sha-256 & sha-512 multihash implementations",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "multiformats",
     "multihash",
